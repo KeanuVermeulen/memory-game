@@ -1,0 +1,11 @@
+/* Task 10: Capstone Project - Memory Game - Header.css */
+
+.header-container {
+  padding: 0;
+  padding-top: 20px;
+  width: 100%;
+  color: #fff;
+  background-color: #000; 
+  height: 150px;
+  overflow: hidden;
+}

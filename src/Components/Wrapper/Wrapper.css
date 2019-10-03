@@ -1,0 +1,9 @@
+/* Task 10: Capstone Project - Memory Game - Wrapper.js */
+
+.wrapper {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-content: flex-start;
+  overflow: auto;
+}

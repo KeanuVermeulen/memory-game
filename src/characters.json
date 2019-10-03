@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Micky Mouse",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Mickey_Mouse.png/220px-Mickey_Mouse.png",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "Olaf",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Olaf_from_Disney%27s_Frozen.png/160px-Olaf_from_Disney%27s_Frozen.png",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "Alladin",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Aladdin_Disney_pose.png/220px-Aladdin_Disney_pose.png",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": " Beast",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Disney-beast.PNG/220px-Disney-beast.PNG",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "Smee",
+    "image": "https://vignette.wikia.nocookie.net/villains/images/0/08/Mr._Smee_Transparent/revision/latest?cb=20170713193443",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "Mulan",
+    "image": "https://vignette.wikia.nocookie.net/disneyprincess/images/1/1f/Mulan.16.png/revision/latest?cb=20180717231232",
+    "count": 0
+  },
+  {
+    "id": 7,
+    "name": "Maleficent",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/Maleficent_disney.png/220px-Maleficent_disney.png",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "Ariel",
+    "image": "https://upload.wikimedia.org/wikipedia/en/7/77/Ariel_disney.png",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "Stitch",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Stitch_%28Lilo_%26_Stitch%29.svg/220px-Stitch_%28Lilo_%26_Stitch%29.svg.png",
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "Timon & Pumba",
+    "image": "https://i.pinimg.com/originals/3e/63/64/3e6364d44ac079ee6b0ddf222586efad.png",
+    "count": 0
+  },
+  {
+    "id": 11,
+    "name": "Quasimodo",
+    "image": "https://vignette.wikia.nocookie.net/disney/images/f/fe/Quasimodo_KH.png/revision/latest?cb=20120229022049",
+    "count": 0
+  },
+  {
+    "id": 12,
+    "name": "Pinochio",
+    "image": "https://www.stickpng.com/assets/images/587b570f44060909aa603aa6.png",
+    "count": 0
+  }
+]
